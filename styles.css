@@ -1,0 +1,74 @@
+body {
+    background-image: url("https://cdn.hipwallpaper.com/m/83/71/gbz5Uf.jpg");
+  }
+  
+  button {
+    background-color: rgb(9, 211, 9);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    height: 60px;
+    width: 180px;
+  }
+  
+  .cash {
+    background-color: rgb(248, 247, 247);
+    background-image: url("https://www.kindpng.com/picc/m/155-1554937_dollar-clipart-subsidy-cartoon-money-stack-png-transparent.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0;
+    margin-left: 44px;
+    margin-right: 44px;
+    padding: 1rem;
+  }
+  
+  .coinage {
+    background-color: rgb(248, 247, 247);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQixoOWXCdXAglcSP417xwFxo7yMOdIip_39hy8FLw-fNIJ6iMS&usqp=CAU");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 20;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0;
+    margin-left: 44px;
+    margin-right: 44px;
+    padding: 1rem;
+  }
+  
+  .input {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.5rem;
+  }
+  
+  .Title {
+    Background-image: url("https://cdn.hipwallpaper.com/i/41/23/kEYoP9.jpg");
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 132px;
+    margin: 40px;
+    text-align: center;
+    text-decoration: underline overline forestgreen;
+  }
+  
+  .input {
+    background-color: White;
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+  }
+  
+  label {
+    display: flex;
+    font-size: 20px;
+  }
+  
